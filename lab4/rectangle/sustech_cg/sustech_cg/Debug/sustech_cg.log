@@ -1,0 +1,4 @@
+﻿  sustech_cg.cpp
+c:\users\zhao\desktop\计算机图形学\lab\cs312_cg\lab4\rectangle\sustech_cg\sustech_cg\sustech_cg.cpp(34): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\zhao\desktop\计算机图形学\lab\cs312_cg\lab4\rectangle\sustech_cg\sustech_cg\sustech_cg.cpp(41): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  sustech_cg.vcxproj -> C:\Users\Zhao\Desktop\计算机图形学\lab\CS312_CG\lab4\rectangle\sustech_cg\Debug\sustech_cg.exe
