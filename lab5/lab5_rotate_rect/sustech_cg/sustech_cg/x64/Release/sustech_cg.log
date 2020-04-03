@@ -1,0 +1,9 @@
+﻿  sustech_cg.cpp
+c:\users\zhao\desktop\计算机图形学\lab\cs312_cg\lab5\lab5_code\sustech_cg\sustech_cg\sustech_cg.cpp(37): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\zhao\desktop\计算机图形学\lab\cs312_cg\lab5\lab5_code\sustech_cg\sustech_cg\sustech_cg.cpp(44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  1 of 58 functions ( 1.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  sustech_cg.vcxproj -> C:\Users\Zhao\Desktop\计算机图形学\lab\CS312_CG\lab5\lab5_code\sustech_cg\x64\Release\sustech_cg.exe
