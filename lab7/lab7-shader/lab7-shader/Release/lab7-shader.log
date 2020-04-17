@@ -1,0 +1,16 @@
+﻿  lab7-shader.cpp
+c:\users\zhao\desktop\计算机图形学\lab\cs312_cg\lab7\lab7-shader\lab7-shader\lab7-shader.cpp(226): warning C4101: “geometry”: 未引用的局部变量
+c:\users\zhao\desktop\计算机图形学\lab\cs312_cg\lab7\lab7-shader\lab7-shader\lab7-shader.cpp(432): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\zhao\desktop\计算机图形学\lab\cs312_cg\lab7\lab7-shader\lab7-shader\lab7-shader.cpp(531): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\zhao\desktop\计算机图形学\lab\cs312_cg\lab7\lab7-shader\lab7-shader\lab7-shader.cpp(532): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\zhao\desktop\计算机图形学\lab\cs312_cg\lab7\lab7-shader\lab7-shader\lab7-shader.cpp(536): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\zhao\desktop\计算机图形学\lab\cs312_cg\lab7\lab7-shader\lab7-shader\lab7-shader.cpp(537): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\zhao\desktop\计算机图形学\lab\cs312_cg\lab7\lab7-shader\lab7-shader\lab7-shader.cpp(539): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\zhao\desktop\计算机图形学\lab\cs312_cg\lab7\lab7-shader\lab7-shader\lab7-shader.cpp(540): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\zhao\desktop\计算机图形学\lab\cs312_cg\lab7\lab7-shader\lab7-shader\lab7-shader.cpp(549): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  1 of 180 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  lab7-shader.vcxproj -> C:\Users\Zhao\Desktop\计算机图形学\lab\CS312_CG\lab7\lab7-shader\Release\lab7-shader.exe
